@@ -977,8 +977,8 @@ width: 160px;
 	margin-top:80px;
 }
 
-.linkLogoSinn{
-	width:70px;
+.linkLogoOpenInn{
+	width:85px;
 	margin-right:-10px;
 	padding-left: 2px;
 }
@@ -998,25 +998,17 @@ width: 160px;
 	width: 95px;
 }
 
-.linkLogoSpot{
-	width: 70px;
-	margin-right: 48px;
-}
 
-.linkLogoOpen{
-	width:88px;
-	margin-left: 110px;
-}
-
-.linkLogoIt4biz{
-	width:85px;
+.linkLogoJebs{
+	width:100px;
+	margin-left: 268px;
 }
 
 .linkLogoDelphos{
 	width:80px;
-	margin-top: 16px;
+	margin-top: 0px;
+	margin-left: 100px;
 }
-
 
 .linkLogoAmbiente{
 	width:95px;
