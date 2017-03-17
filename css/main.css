@@ -956,14 +956,14 @@ width: 160px;
 .prata {
 	font-size: 10px;
 	line-height: 10px;
-	width: 48px;
+	width: 120px;
         margin-right: 130px;
 }
 
 .ouro {
 	font-size: 10px;
 	line-height: 10px;
-	width: 65px;
+	width: 35px;
         margin-right: 250px;
 }
 
@@ -1001,13 +1001,13 @@ width: 160px;
 
 .linkLogoJebs{
 	width:100px;
-	margin-left: 268px;
+	margin-left: 237px;
 }
 
 .linkLogoDelphos{
-	width:80px;
-	margin-top: 0px;
-	margin-left: 100px;
+	width:100px;
+	margin-top: -6px;
+	margin-left: 18px;
 }
 
 .linkLogoAmbiente{
