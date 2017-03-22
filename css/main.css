@@ -978,8 +978,8 @@ width: 160px;
 }
 
 .linkLogoOpenInn{
-	width:85px;
-	margin-right:-10px;
+	width:160px;
+	margin-right: -10px;
 	padding-left: 2px;
 }
 
@@ -998,10 +998,9 @@ width: 160px;
 	width: 95px;
 }
 
-
 .linkLogoJebs{
 	width:100px;
-	margin-left: 237px;
+	margin-left: 165px;
 }
 
 .linkLogoDelphos{
@@ -1020,7 +1019,6 @@ width: 160px;
 	margin-top: -10px;
 	margin-right: 35px;
 }
-
 
 .linkLogoSucesu{
 		width:125px;
@@ -1047,7 +1045,6 @@ width: 160px;
 	margin-right: 150px;
 }
 
-
 .linkLogoPentaho{
 	width:92px;
 	margin-top: 3px;
@@ -1060,7 +1057,6 @@ width: 160px;
 	color:#444;
 	font-weight:700;
 }
-
 
 .tabs li {
 	display: inline;
