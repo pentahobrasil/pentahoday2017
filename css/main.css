@@ -845,8 +845,6 @@ width: 160px;
 	margin-left:42px;
 }
 
-
-
 #picture1 { background: url(../img/orador01.png) no-repeat; }
    
 #picture2 { background: url(../img/orador02.png) no-repeat; }  
@@ -965,7 +963,7 @@ width: 160px;
 	font-size: 10px;
 	line-height: 10px;
 	width: 35px;
-        margin-right: 250px;
+        margin-right: 410px;
 }
 
 .linkLogoI{
@@ -980,7 +978,7 @@ width: 160px;
 
 .linkLogoOpenInn{
 	width:160px;
-	margin-right: -10px;
+	margin-right: 1px;
 	padding-left: 2px;
 }
 
@@ -995,8 +993,7 @@ width: 160px;
 }
 
 .linkLogoOn{
-	margin-top: 14px;
-	width: 95px;
+	width: 155px;
 }
 
 .linkLogoJebs{
@@ -1013,6 +1010,7 @@ width: 160px;
 .linkLogoAmbiente{
 	width:95px;
 	margin-right: 35px;
+	margin-left: 140px;
 }
 
 .linkLogoGrupo{
@@ -1022,10 +1020,10 @@ width: 160px;
 }
 
 .linkLogoSucesu{
-		width:125px;
+		width:100px;
+		margin-top: -5px;
 		margin-left: -8px;
 		margin-right: 5px;
-
 }
 
 .linkLogoAssespro{
@@ -1122,15 +1120,12 @@ a.programa:hover {
 	margin-top: 30px;
 }
 
-
 .offset43
 {
 	margin-top: -50px;
 }
 
-
 .offset4
 {
 	margin-top: 30px;
 }
-
