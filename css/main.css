@@ -625,8 +625,8 @@ margin-top: 30px;
 .oradores1{
 margin-top: 0px;
 padding-top:30px;
-width: 916px;
-margin-left:115px;
+width: 1090px;
+margin-left:-65px;
 }
 
 .oradores2{
@@ -927,6 +927,7 @@ width: 160px;
 
 #picture63 { background: url(../img/orador63.png) no-repeat; }
 
+#picture64 { background: url(../img/orador64.png) no-repeat; }
 
 
 .linkLogo2 {
